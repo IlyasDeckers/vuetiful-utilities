@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1532452406901" clover="3.2.0">
+  <project timestamp="1532452406901" name="All files">
+    <metrics statements="245" coveredstatements="107" conditionals="147" coveredconditionals="69" methods="83" coveredmethods="36" elements="475" coveredelements="212" complexity="0" loc="245" ncloc="245" packages="2" files="35" classes="35">
+      <package name="utilities">
+        <metrics statements="204" coveredstatements="101" conditionals="131" coveredconditionals="66" methods="65" coveredmethods="35"/>
+        <file name="array-get.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/array-get.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="2" count="0" type="stmt"/>
+        </file>
+        <file name="average-of.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/average-of.js">
+          <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="6" count="1" type="cond" truecount="1" falsecount="1"/>
+        </file>
+        <file name="compare.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/compare.js">
+          <metrics statements="6" coveredstatements="0" conditionals="7" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="4" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+        </file>
+        <file name="exists.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/exists.js">
+          <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+          <line num="2" count="12" type="cond" truecount="2" falsecount="0"/>
+        </file>
+        <file name="filter-by.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/filter-by.js">
+          <metrics statements="15" coveredstatements="13" conditionals="6" coveredconditionals="4" methods="1" coveredmethods="1"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="13" count="3" type="cond" truecount="1" falsecount="1"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="17" count="3" type="stmt"/>
+          <line num="19" count="3" type="stmt"/>
+          <line num="20" count="6" type="stmt"/>
+          <line num="22" count="6" type="stmt"/>
+          <line num="23" count="14" type="stmt"/>
+          <line num="27" count="14" type="cond" truecount="1" falsecount="1"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="32" count="14" type="stmt"/>
+          <line num="34" count="14" type="cond" truecount="2" falsecount="0"/>
+          <line num="35" count="3" type="stmt"/>
+          <line num="36" count="3" type="stmt"/>
+          <line num="41" count="3" type="stmt"/>
+        </file>
+        <file name="filter.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/filter.js">
+          <metrics statements="14" coveredstatements="11" conditionals="10" coveredconditionals="6" methods="3" coveredmethods="3"/>
+          <line num="7" count="4" type="stmt"/>
+          <line num="8" count="4" type="cond" truecount="1" falsecount="1"/>
+          <line num="9" count="4" type="stmt"/>
+          <line num="10" count="10" type="stmt"/>
+          <line num="11" count="14" type="cond" truecount="1" falsecount="1"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="13" count="14" type="cond" truecount="1" falsecount="1"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="17" count="14" type="cond" truecount="2" falsecount="0"/>
+          <line num="20" count="12" type="stmt"/>
+          <line num="21" count="2" type="cond" truecount="1" falsecount="1"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="24" count="2" type="stmt"/>
+          <line num="30" count="4" type="stmt"/>
+        </file>
+        <file name="first-of.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/first-of.js">
+          <metrics statements="3" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+        </file>
+        <file name="group-by.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/group-by.js">
+          <metrics statements="8" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+        </file>
+        <file name="is-array.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/is-array.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="2" count="41" type="stmt"/>
+        </file>
+        <file name="is-empty.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/is-empty.js">
+          <metrics statements="8" coveredstatements="8" conditionals="8" coveredconditionals="7" methods="1" coveredmethods="1"/>
+          <line num="6" count="11" type="cond" truecount="4" falsecount="0"/>
+          <line num="7" count="5" type="stmt"/>
+          <line num="8" count="6" type="cond" truecount="2" falsecount="0"/>
+          <line num="9" count="5" type="stmt"/>
+          <line num="10" count="4" type="cond" truecount="1" falsecount="1"/>
+          <line num="11" count="4" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+          <line num="16" count="1" type="stmt"/>
+        </file>
+        <file name="is-float.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/is-float.js">
+          <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+          <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        </file>
+        <file name="is-function.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/is-function.js">
+          <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+          <line num="2" count="2" type="stmt"/>
+          <line num="3" count="2" type="stmt"/>
+        </file>
+        <file name="is-integer.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/is-integer.js">
+          <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="2" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+        </file>
+        <file name="is-object.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/is-object.js">
+          <metrics statements="1" coveredstatements="1" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+          <line num="5" count="23" type="stmt"/>
+        </file>
+        <file name="is-string.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/is-string.js">
+          <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+          <line num="2" count="25" type="cond" truecount="2" falsecount="0"/>
+        </file>
+        <file name="last-of.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/last-of.js">
+          <metrics statements="3" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="cond" truecount="0" falsecount="4"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+        </file>
+        <file name="map-values.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/map-values.js">
+          <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+        </file>
+        <file name="max-of.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/max-of.js">
+          <metrics statements="10" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+        </file>
+        <file name="median-of.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/median-of.js">
+          <metrics statements="10" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+        </file>
+        <file name="merge.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/merge.js">
+          <metrics statements="35" coveredstatements="21" conditionals="32" coveredconditionals="17" methods="12" coveredmethods="8"/>
+          <line num="2" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="6" count="4" type="cond" truecount="1" falsecount="1"/>
+          <line num="8" count="4" type="cond" truecount="3" falsecount="1"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="31" count="1" type="stmt"/>
+          <line num="32" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="33" count="1" type="stmt"/>
+          <line num="34" count="2" type="stmt"/>
+          <line num="37" count="1" type="stmt"/>
+          <line num="38" count="2" type="cond" truecount="2" falsecount="2"/>
+          <line num="39" count="2" type="stmt"/>
+          <line num="41" count="0" type="stmt"/>
+          <line num="44" count="1" type="stmt"/>
+          <line num="48" count="7" type="cond" truecount="2" falsecount="0"/>
+          <line num="53" count="7" type="cond" truecount="2" falsecount="0"/>
+          <line num="57" count="1" type="stmt"/>
+          <line num="59" count="1" type="cond" truecount="2" falsecount="0"/>
+          <line num="64" count="1" type="stmt"/>
+          <line num="65" count="1" type="stmt"/>
+          <line num="66" count="1" type="cond" truecount="2" falsecount="0"/>
+          <line num="67" count="1" type="stmt"/>
+          <line num="69" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="70" count="0" type="stmt"/>
+          <line num="71" count="1" type="cond" truecount="1" falsecount="1"/>
+          <line num="72" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="73" count="0" type="stmt"/>
+          <line num="75" count="1" type="stmt"/>
+        </file>
+        <file name="min-of.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/min-of.js">
+          <metrics statements="10" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+        </file>
+        <file name="module-name.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/module-name.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+        </file>
+        <file name="nest.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/nest.js">
+          <metrics statements="8" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+        </file>
+        <file name="page-by.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/page-by.js">
+          <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+        </file>
+        <file name="page.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/page.js">
+          <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+          <line num="2" count="2" type="stmt"/>
+          <line num="3" count="2" type="stmt"/>
+          <line num="4" count="2" type="stmt"/>
+          <line num="6" count="2" type="stmt"/>
+          <line num="7" count="22" type="stmt"/>
+          <line num="9" count="22" type="cond" truecount="2" falsecount="0"/>
+          <line num="10" count="2" type="stmt"/>
+          <line num="13" count="22" type="stmt"/>
+          <line num="15" count="22" type="stmt"/>
+          <line num="16" count="22" type="stmt"/>
+          <line num="19" count="2" type="stmt"/>
+        </file>
+        <file name="remove.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/remove.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="2" count="2" type="stmt"/>
+          <line num="3" count="1" type="stmt"/>
+        </file>
+        <file name="replace.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/replace.js">
+          <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="4" count="2" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+        </file>
+        <file name="search.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/search.js">
+          <metrics statements="8" coveredstatements="6" conditionals="6" coveredconditionals="4" methods="3" coveredmethods="3"/>
+          <line num="5" count="8" type="cond" truecount="2" falsecount="0"/>
+          <line num="6" count="6" type="stmt"/>
+          <line num="7" count="6" type="cond" truecount="1" falsecount="1"/>
+          <line num="8" count="6" type="stmt"/>
+          <line num="9" count="11" type="cond" truecount="1" falsecount="1"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="13" count="11" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+        </file>
+        <file name="sort-by.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/sort-by.js">
+          <metrics statements="11" coveredstatements="10" conditionals="10" coveredconditionals="9" methods="3" coveredmethods="3"/>
+          <line num="11" count="14" type="cond" truecount="2" falsecount="0"/>
+          <line num="12" count="144" type="cond" truecount="2" falsecount="0"/>
+          <line num="14" count="14" type="cond" truecount="1" falsecount="1"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="18" count="14" type="stmt"/>
+          <line num="20" count="14" type="stmt"/>
+          <line num="21" count="78" type="stmt"/>
+          <line num="22" count="78" type="stmt"/>
+          <line num="24" count="78" type="cond" truecount="4" falsecount="0"/>
+          <line num="26" count="78" type="stmt"/>
+          <line num="29" count="14" type="stmt"/>
+        </file>
+        <file name="standard-deviation-of.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/standard-deviation-of.js">
+          <metrics statements="2" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+        </file>
+        <file name="total-of.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/total-of.js">
+          <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4"/>
+          <line num="4" count="9" type="stmt"/>
+          <line num="6" count="9" type="cond" truecount="1" falsecount="1"/>
+          <line num="10" count="6" type="cond" truecount="2" falsecount="0"/>
+          <line num="12" count="5" type="stmt"/>
+          <line num="13" count="9" type="stmt"/>
+          <line num="15" count="9" type="stmt"/>
+        </file>
+        <file name="variance-of.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/variance-of.js">
+          <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        </file>
+      </package>
+      <package name="utilities.base">
+        <metrics statements="41" coveredstatements="6" conditionals="16" coveredconditionals="3" methods="18" coveredmethods="1"/>
+        <file name="aggregator.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/base/aggregator.js">
+          <metrics statements="7" coveredstatements="6" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+          <line num="2" count="5" type="cond" truecount="2" falsecount="0"/>
+          <line num="4" count="5" type="stmt"/>
+          <line num="5" count="9" type="stmt"/>
+          <line num="7" count="9" type="cond" truecount="1" falsecount="1"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="11" count="9" type="stmt"/>
+          <line num="14" count="5" type="stmt"/>
+        </file>
+        <file name="type-converter.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/base/type-converter.js">
+          <metrics statements="15" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="5" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+        </file>
+        <file name="type-validator.js" path="/home/ilyas/script/vuetiful-utilities/src/utilities/base/type-validator.js">
+          <metrics statements="19" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="12" coveredmethods="0"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="38" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="42" count="0" type="stmt"/>
+          <line num="46" count="0" type="stmt"/>
+          <line num="50" count="0" type="stmt"/>
+          <line num="54" count="0" type="stmt"/>
+          <line num="58" count="0" type="stmt"/>
+          <line num="62" count="0" type="stmt"/>
+          <line num="66" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
