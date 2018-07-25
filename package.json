@@ -2,11 +2,11 @@
   "name": "vuetiful-utilities",
   "version": "0.0.1",
   "description": "Utilities for the vuetiful framework",
-  "main": "index.js",
   "scripts": {
     "test": "npm run unit",
     "unit": "jest --config jest.conf.js --coverage"
   },
+  "main": "./src/",
   "repository": {
     "type": "git",
     "url": "https://github.com/IlyasDeckers/vuetiful-utilities.git"
@@ -15,6 +15,7 @@
     "vue",
     "vuejs",
     "utilities",
+    "utils",
     "vuetiful"
   ],
   "author": "Ilyas Deckers",
@@ -33,5 +34,8 @@
     "babel-preset-stage-2": "^6.24.1",
     "jest": "^23.4.1",
     "lodash": "^4.17.10"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
   }
 }
