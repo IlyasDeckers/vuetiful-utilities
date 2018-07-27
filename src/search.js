@@ -7,9 +7,10 @@ export function search (haystack, needle) {
   } else if (isObject(haystack)) {
     return Object.keys(haystack).some(key => {
       if (isObject(haystack[key])) {
+        
         return search(haystack[key], needle)
       }
-
+    
       return String(haystack[key])
         .toLowerCase()
         .includes(String(needle).toLowerCase())
@@ -17,3 +18,4 @@ export function search (haystack, needle) {
   }
   return []
 }
+ 

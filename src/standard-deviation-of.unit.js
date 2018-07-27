@@ -1,4 +1,3 @@
-/* eslint-disable */
 import {standardDeviationOf} from './standard-deviation-of'
 
 describe('./standardDeviationOf', () => {
